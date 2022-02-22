@@ -19,5 +19,5 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. student in economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en). My research interests are in Macroeconomics and Labor Economics with a focus on socioeconomic inequalities and intergenerational mobility.
 
-This website is currently under construction. A profile picture will follow soon.
+This website is currently under construction.
 
