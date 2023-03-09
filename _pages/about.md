@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Lukas_Mahler_Picture.jpg
   address: >
     <p>University of Mannheim</p>
     <p>L7, 304 Room 204</p>
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en). My research interests are in Macroeconomics and Labor Economics with a focus on socioeconomic inequalities and intergenerational mobility.
+Welcome to my website! I am a Ph.D. student in economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en). My research interests are in Macroeconomics, Education, and Health. 
 
-This website is currently under construction.
+
 

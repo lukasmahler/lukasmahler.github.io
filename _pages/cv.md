@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-<a href="../assets/pdf/mahler_cv.pdf">Download</a>
+<a href="../assets/pdf/CV_Mahler.pdf">Download</a>
