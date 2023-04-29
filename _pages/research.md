@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-years_wp: [2022]
+years_wp: [2023]
 years_progress: [2023]
 nav: true
 ---
