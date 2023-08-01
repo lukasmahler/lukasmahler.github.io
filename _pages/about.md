@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: Lukas_Mahler_Picture.jpg
+  image: Lukas_Mahler_Portrait.jpg
   address: >
     <p>University of Mannheim</p>
     <p>L7, 304 Room 204</p>
