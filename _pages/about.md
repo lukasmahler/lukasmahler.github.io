@@ -7,6 +7,7 @@ profile:
   align: right
   image: Lukas_Mahler_Portrait.jpg
   address: >
+    ***<p style="text-align: center; ">Photo Credit: Katrin Glückler<"\p>***
     <p>University of Mannheim</p>
     <p>L7, 304 Room 204</p>
     <p>68165 Mannheim, Germany</p>
