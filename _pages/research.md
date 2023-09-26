@@ -12,7 +12,7 @@ nav: true
 <h1 class="year">Working Papers</h1>
 {% for y in page.years_wp %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}},topic=Working Paper]* %}
+  {% bibliography -f papers -q @*[year={{y}},topic=wp]* %}
 {% endfor %}
 </div>
 ***
@@ -20,7 +20,7 @@ nav: true
 <h1 class="year">Work in Progress</h1>
 {% for y in page.years_progress %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}},topic=Work in Progress]* %}
+  {% bibliography -f papers -q @*[year={{y}},topic=wip]* %}
 {% endfor %}
 </div>
 ***
