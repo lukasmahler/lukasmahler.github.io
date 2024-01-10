@@ -5,6 +5,7 @@ title: Research
 description: 
 years_wp: [2023]
 years_progress: [2023]
+years_pup: [2024]
 nav: true
 ---
 ***
@@ -26,7 +27,7 @@ nav: true
 ***
 <div class="publications">
 <h1 class="year">Published and Accepted Papers</h1>
-{% for y in page.years_wp %}
+{% for y in page.years_pup %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}},topic=pup]* %}
 {% endfor %}
