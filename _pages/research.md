@@ -5,13 +5,12 @@ title: Research
 description: 
 years_wp: [2023]
 years_progress: [2023]
-years_pub: [2024]
 nav: true
 ---
 ***
 <div class="publications">
 <h1 class="year">Job Market Paper</h1>
-{% for y in page.years_pup %}
+{% for y in page.years_wp %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}},topic=jmp]* %}
 {% endfor %}
@@ -27,7 +26,7 @@ nav: true
 ***
 <div class="publications">
 <h1 class="year">Published and Accepted Papers</h1>
-{% for y in page.years_pup %}
+{% for y in page.years_wp %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}},topic=pup]* %}
 {% endfor %}
