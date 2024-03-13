@@ -3,9 +3,9 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-years_wp: [2023]
-years_progress: [2023]
-years_pup: [2023, 2024]
+years_wp: [2023, 2024]
+years_progress: [2024]
+years_pup: [2024]
 nav: true
 ---
 ***
