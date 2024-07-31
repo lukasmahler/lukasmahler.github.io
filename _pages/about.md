@@ -10,7 +10,7 @@ profile:
     <p>University of Mannheim</p>
     <p>L7, 304 Room 204</p>
     <p>68165 Mannheim, Germany</p>
-    <p>lukas.mahler@gess.uni-mannheim.de</p>
+    <p>lukasmahler5@gmail.com</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
