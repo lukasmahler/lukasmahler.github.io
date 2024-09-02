@@ -8,7 +8,8 @@ profile:
   image: Lukas_Mahler_Portrait.jpg
   address: >
     <p>KU Leuven</p>
-    <p>lukasmahler5@gmail.com</p>
+    <p>Department of Economics</p> 
+    <p>lukas.mahler@kuleuven.be</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
