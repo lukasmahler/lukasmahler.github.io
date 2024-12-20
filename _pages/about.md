@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 Welcome to my website! I am a Postdoctoral Fellow in the economics department at [KU Leuven](https://feb.kuleuven.be/research/economics/ces), which I will join as an Assistant Professor in 2025.
 I hold a Ph.D. in economics from the [University of Mannheim](https://www.vwl.uni-mannheim.de/en).
 
-My research interests are in Macroeconomics, Labor Economics, and Public Economics, with a special focus on Inequality and Social Mobility.
+My research interests are in Macroeconomics, Labor, Public, and Family Economics.
 
 You can download my CV [here](https://lukasmahler.github.io/assets/pdf/CV_Mahler.pdf).
 
