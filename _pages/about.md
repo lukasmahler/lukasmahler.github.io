@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! I am an Assistant Professor in the economics department at [KU Leuven](https://feb.kuleuven.be/research/economics).
-I hold a Ph.D. in economics from the [University of Mannheim](https://www.vwl.uni-mannheim.de/en).
+Welcome to my website! I am an Assistant Professor in the Economics Department at [KU Leuven](https://feb.kuleuven.be/research/economics).
+I hold a Ph.D. in Economics from the [University of Mannheim](https://www.vwl.uni-mannheim.de/en).
 
 My research interests are in Macroeconomics, Labor, Public, and Family Economics.
 
