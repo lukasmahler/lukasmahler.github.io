@@ -208,7 +208,7 @@ scholar:
   last_name: Mahler
   first_name: [Lukas, L.]
 
-  style: chicago-fullnote-bibliography
+  style: apa
   locale: en
 
   source: /_bibliography/
